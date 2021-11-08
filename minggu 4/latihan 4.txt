@@ -1,0 +1,24 @@
+<!D0CTYPE html>
+<html>
+<head>
+	<title>formulir_ppdb_jalurzonasi_tahun_2020</title>
+</head>
+<body>
+		<form action="contact.php" method="Post">
+		<fieldset>formulir_ppdb_jalurzonasi_tahun_2020</legend>
+		<p>
+			<label>nisn:</label>
+			<input type="text" name="nisn" placeholder="nisn..."/>
+		</p>
+		<p>
+			<label>asalsekolah:</label>
+			<input type="text" name="asalsekolah" placeholder="asalsekolah..."/>
+		</p>
+		<p>
+			<label>tahunlulus:</label>
+			<input type="text" name="tahunlulus" placeholder="tahunlulus..."/>
+		</p>
+		</fieldset>
+	</form>
+</body>
+<html>
